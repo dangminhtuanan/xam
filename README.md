@@ -15,7 +15,7 @@ SEARCH: they can search products by name and see those products clearly.
 
 ![](img/index-page.png)
 
-VIEW: they can see the details of the products they are looking for (pictures, description, reviews), moreover , they can see MODEL and LATEST PRODUCTS.
+VIEW: they can see the details of the products they are looking for (pictures, description, reviews), moreover , they can see MODEL and LATEST AAN.
 
 ![](img/shoe-detail-page.png)
 
