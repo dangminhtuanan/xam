@@ -27,7 +27,7 @@ SHOPPING CART: user can add products and remove when they don't need to buy this
 
 ![](img/cart-page.png)
 
-CHECK OUT: Users will see the amount they need to pay for each items they ordered and the total amount due for their final payment.
+CHECK OUT: Users will see khjkjhk amount they need to pay for each items they ordered and the total amount due for their final payment.
 
 ![](img/checkout-page.png)
 
